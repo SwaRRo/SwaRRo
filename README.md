@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SwaRRo
 - 👀 *I’m am Mechatronics Engineer*
-- 🌱 I’m currently learning **JS, Python** which will help me in learning automation.
+- 🌱 I’m currently learning ***JS, Python*** which will help me in learning automation.
 - 📫 You can reach me on LinkedIn.
 
 <!---
